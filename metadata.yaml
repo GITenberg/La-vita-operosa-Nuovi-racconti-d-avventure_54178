@@ -1,0 +1,25 @@
+_repo: La-vita-operosa-Nuovi-racconti-d-avventure_54178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bontempelli, Massimo
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '46496'
+    url: http://www.gutenberg.org/2009/agents/46496
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2017-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54178'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 20th century'
+- GITenberg
+title: 'La vita operosa: Nuovi racconti d''avventure'
+url: http://www.gutenberg.org/ebooks/54178
